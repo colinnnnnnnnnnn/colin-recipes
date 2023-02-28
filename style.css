@@ -1,0 +1,11 @@
+body {
+    background-color: aliceblue;
+}
+
+.title {
+    color: rgb(47, 58, 90);
+    font-weight: bold;
+    text-align: center;
+    font-size: 250%;
+    font-family: sans-serif;
+}
